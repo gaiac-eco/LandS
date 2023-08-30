@@ -1,0 +1,18 @@
+Deutscher Name;Gattung;Art;Name_Delphi;Lichtzahl;Temperaturzahl;Feuchtezahl;Reaktionszahl;Stickstoffzahl;Mahdvertraeglichkeit;Weidevertraeglichkeit;Trittvertraeglichkeit;Wachsrate;Konkurrenz;Hemmung;Blau;Gruen;Rot;Fuers modellieren verwenden;RGB Werte
+Anthriscus sylvestris;Anthriscus;sylvestris;Ant_syl;7;999;5;999;8;7;3;3;3.5;100;0;85;214;254;0;0
+Heracleum sphondylium;Heracleum;sphondylium;Her_sph;7;5;2;999;8;7;3;3;3.5;100;0;152;119;55;0;0
+Taraxacum officinale;Taraxacum;officinale;Tar_off;5;999;5;999;8;8;7;7;3.5;100;0;117;167;254;0;0
+Arrhenatherum elatius;Arrhenatherum;elatius;Arr_ela;8;5;5;7;7;6;3;3;5;1000;0;133;79;251;0;0
+Alopecurus pratensis;Alopecurus;pratensis;Alo_pra;6;999;6;6;7;7;4;4;5;500;0;212;86;255;0;0
+Festuca pratensis;Festuca;pratensis;Fes_pra;8;999;6;999;6;6;4;6;3.5;100;0;255;401;133;0;0
+Tragopogon pratensis;Tragopogon;pratensis;Tra_pra;7;6;4;7;6;6;2;2;4.5;100;0;255;641;125;0;0
+Holcus lanatus;Holcus;lanatus;Hol_lan;7;6;6;999;5;6;4;4;4.5;500;0;196;401;180;0;0
+Achillea millefolium;Achillea;millefolium;Ach_mil;8;999;4;999;5;7;4;5;3.5;100;0;254;111;116;0;0
+Crepis biennis;Crepis;biennis;Cre_bie;7;5;6;6;5;6;2;2;3.5;100;0;235;431;142;0;0
+Knautia arvensis;Knautia;arvensis;Kna_arv;7;6;4;999;4;5;3;2;3.5;100;0;176;201;135;0;0
+Daucus carota;Daucus;carota;Dau_car;8;6;4;999;4;6;3;4;4.5;100;0;76;124;40;0;0
+Rhinanthus minor;Rhinanthus;minor;Rhi_min;7;5;4;999;3;5;8;3;4.5;100;0;1;491;182;0;0
+Leucanthemum vulgare;Leucanthemum;vulgare;Leu_vul;7;999;4;999;3;6;3;4;3.5;100;0;185;76;49;0;0
+Lotus corniculatus;Lotus;corniculatus;Lot_cor;7;999;4;7;3;6;4;4;3.5;100;0;223;0;0;0;0
+Galium mollugo;Galium;mollugo;Gal_mol;7;6;4;7;999;7;3;3;4.5;500;0;0;128;255;0;0
+Ranunculus acris;Ranunculus;acris;Ran_acr;7;999;6;999;999;6;5;6;4.5;100;0;125;131;54;0;0

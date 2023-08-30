@@ -1,0 +1,12 @@
+Deutscher Name;Gattung;Art;Name_Delphi;Lichtzahl;Temperaturzahl;Feuchtezahl;Reaktionszahl;Stickstoffzahl;Mahdvertraeglichkeit;Weidevertraeglichkeit;Trittvertraeglichkeit;Wachsrate;Konkurrenz;Wachstumshoehe;Wachstumshoehe min;Futterwert;Hemikryptophyten;Auslaeufer;Wurzeltiefe;Hemmung;Blau;Gruen;Rot;Fuers modellieren verwenden;RGB Werte
+Lolium perenne;Lolium;perenne;Lol_per;8;6;5;7;7;8;8;8;3.5;10000;0;0;0;0;0;0;0;235;255;183;0;0
+Agrostis stricta  ;Agrostis  ;stricta ;Agr_str;9;7;2;2;1;7;7;7;3.5;10000;0;0;0;0;0;0;0;138;214;224;0;0
+Bromus erectus;Bromus ;erectus;Bro_ere;8;5;3;8;3;5;4;4;3.5;10000;0;0;0;0;0;0;0;198;171;161;0;0
+Alopecurus geniculatus;Alopecurus ;geniculatus;Alo_gen;9;6;8;7;7;4;4;5;3.5;10000;0;0;0;0;0;0;0;103;255;205;0;0
+Eriophorum angustifolium;Eriophorum ;angustifolium;Eri_ang;8;999;9;4;2;3;3;3;3.5;10000;0;0;0;0;0;0;0;104;254;143;0;0
+Carex davalliana;Carex ;davalliana;Car_dav;9;4;9;8;2;3;4;4;3.5;10000;0;0;0;0;0;0;0;152;236;148;0;0
+Poa nemoralis;Poa ;nemoralis;Poa_nem;5;999;5;5;4;5;2;2;3.5;10000;0;0;0;0;0;0;0;104;254;243;0;0
+Carex sylvatica;Carex ;sylvatica;Car_syl;2;5;5;6;5;3;4;4;3.5;10000;0;0;0;0;0;0;0;153;255;205;0;0
+Luzula luzuloides;Luzula ;luzuloides;Luz_luz;4;999;5;3;4;4;5;4;3.5;10000;0;0;0;0;0;0;0;203;255;205;0;0
+Carex alba;Carex;alba;Car_alb;5;5;4;8;2;3;4;4;3.5;10000;0;0;0;0;0;0;0;143;188;143;0;0
+Campanula trachelium;Campanula ;trachelium;Cam_tra;4;999;6;8;8;4;4;4;3.5;10000;0;0;0;0;0;0;0;253;255;50;0;0
